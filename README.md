@@ -8,7 +8,7 @@ The system treats the user's savings as the integrity maintenance of a critical 
 ## 2. Final Result on Lovable 🚀
 Below, you can check the SENTINEL-X command terminal interface in operation, demonstrating the high-contrast aesthetics and real-time system response:
 
-![Sentinel-X Interface](sentinel-interface-terminal.jpg)
+![Monitor](images/monitor-3.png)
 
 ## 3. Creation Process (Vibe Coding) 🧠
 The development of this project followed three main stages of AI interaction:
